@@ -1,0 +1,42 @@
+.head{
+    color: rgb(1, 1, 8);
+}
+.team-member{
+    margin-bottom: 20px;
+}
+.team-member p{
+    float: center;
+    text-align: center;
+}
+#btn1:hover{
+    background-color: gray;
+}
+.btn{
+    background-color: rgb(42, 42, 245);
+    color: #ddd;
+    align-items: center;
+    
+}
+.container{
+    margin-bottom: 50px;
+}
+.para1{
+    
+    margin-top: 5px;
+}
+.head1{
+    text-align: center;
+}
+.team-member{
+    margin-left: 150px;
+    justify-content: center;
+    margin-left: 650px;
+    margin-top: 25px;
+    display: flex;
+}
+.team-member a{
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    align-items: center;
+}
